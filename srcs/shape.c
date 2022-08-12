@@ -1,4 +1,4 @@
-#include "tetris.h"
+#include "../includes/tetris.h"
 
 const t_shape	Tetriminoes[7] = {
 	{(char *[]){(char []){0, 1, 1}, (char []){1, 1, 0}, (char []){0, 0, 0}}, 3},

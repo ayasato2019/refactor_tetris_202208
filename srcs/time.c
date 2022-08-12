@@ -1,4 +1,4 @@
-#include "tetris.h"
+#include "../includes/tetris.h"
 
 suseconds_t	usec(t_timeval *t)
 {

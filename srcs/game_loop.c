@@ -1,4 +1,4 @@
-#include "tetris.h"
+#include "../includes/tetris.h"
 
 int	move_down_shape(t_game *game, t_shape *temp, t_shape *current)
 {

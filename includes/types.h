@@ -11,7 +11,7 @@
 
 # define R 20
 # define C 15
-# define KEY_QUICKEN		's'
+# define KEY_QUICKEN	's'
 # define KEY_MOVE_RIGHT	'd'
 # define KEY_MOVE_LEFT	'a'
 # define KEY_ROTATE		'w'

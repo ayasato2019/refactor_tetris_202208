@@ -1,9 +1,9 @@
-#ifndef SET_HEADERS_H
-# define SET_HEADERS_H
+#ifndef ALL_HEADERS_H
+# define ALL_HEADERS_H
 # include "types.h"
 
 //init_game.c
-void		init_game(t_game *game, t_shape *current);
+void		init_game(t_game *game, t_shape	*current);
 
 //game_loop.c
 suseconds_t	usec(t_timeval *t);

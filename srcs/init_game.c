@@ -1,4 +1,4 @@
-#include "tetris.h"
+#include "../includes/tetris.h"
 
 void	init_game(t_game *game, t_shape	*current)
 {

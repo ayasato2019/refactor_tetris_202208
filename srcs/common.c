@@ -1,4 +1,4 @@
-#include "tetris.h"
+#include "../includes/tetris.h"
 
 bool	check_placed(t_board board, const t_shape *shape)
 {
